@@ -1,0 +1,13 @@
+# Personal settings - may contain the API key. Never commit.
+.claude/settings.local.json
+.env
+.env.*
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/

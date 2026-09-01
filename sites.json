@@ -1,0 +1,11 @@
+{
+  "budget": {
+    "performanceScore": 0.75,
+    "lcpMs": 2500,
+    "tbtMs": 300,
+    "cls": 0.1
+  },
+  "sites": [
+    { "name": "rumanka.sk", "url": "https://rumanka.sk", "expectText": "Rumanka" }
+  ]
+}
